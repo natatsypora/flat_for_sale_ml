@@ -15,7 +15,6 @@ ML algorithms used in this project:
 
 ![image](https://github.com/user-attachments/assets/b3c0a308-9ad5-4a92-a45b-43838aab3c8e)
 
-
 ![image](https://github.com/user-attachments/assets/29c500ba-a798-4082-85d5-a153eb695276)
 
 
