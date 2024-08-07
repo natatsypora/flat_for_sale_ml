@@ -2,7 +2,14 @@
 
 This repository contains code for a machine learning project that predicts the price of apartments for sale on the website "yad2". The code includes feature engineering, model training, and prediction. 
 
-### Visualization for machine learning workflow with [Yellowbrick](https://www.scikit-yb.org/en/latest/quickstart.html) and [Seaborn](https://seaborn.pydata.org/)
+## Description
+ML algorithms used in this project:
+-  LinearRegression
+-  DecisionTreeRegressor
+-  RandomForestRegressor
+-  KNeighborsRegressor
+
+#### Visualization for machine learning workflow with [Yellowbrick](https://www.scikit-yb.org/en/latest/quickstart.html) and [Seaborn](https://seaborn.pydata.org/)
 
 ![image](https://github.com/user-attachments/assets/b3c0a308-9ad5-4a92-a45b-43838aab3c8e)
 
