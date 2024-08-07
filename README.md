@@ -1,6 +1,7 @@
 ## Apartment Prices Prediction using Scikit-Learn and Python.
 
-This repository contains code for a machine learning project that predicts the price of apartments for sale on the website "yad2". The code includes feature engineering, model training, and prediction. 
+This repository contains code for a machine learning project that predicts the price of apartments for sale on the website "yad2".  
+The code includes feature engineering, model training, and prediction. 
 
 ## Description
 ML algorithms used in this project:
@@ -8,6 +9,7 @@ ML algorithms used in this project:
 -  DecisionTreeRegressor
 -  RandomForestRegressor
 -  KNeighborsRegressor
+-  Recursive Feature Elimination (RFE) used for feature selection
 
 #### Visualization for machine learning workflow with [Yellowbrick](https://www.scikit-yb.org/en/latest/quickstart.html) and [Seaborn](https://seaborn.pydata.org/)
 
